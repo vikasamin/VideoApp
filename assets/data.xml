@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <entries>
+      <element>
+         <availableDate>931478400000</availableDate>
+         <categories>
+            <element>
+               <description>Comedy movies</description>
+               <id>movies-comedy</id>
+               <title>Comedy</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Romantic movies</description>
+               <id>movies-romance</id>
+               <title>Romance</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Gil Junger</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Heath Ledger</name>
+               <role>Heath Ledger</role>
+            </element>
+            <element>
+               <name>Julia Stiles</name>
+               <role>Julia Stiles</role>
+            </element>
+            <element>
+               <name>Joseph Gordon-Levitt</name>
+               <role>Joseph Gordon-Levitt</role>
+            </element>
+         </credits>
+         <description>A new kid must find a guy to date the meanest girl in school, the older sister of the girl he has a crush on, who cannot date until her older sister does.</description>
+         <id>10-things-i-hate-about-you</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>f67e6e8a7478d1dae24e869f3d7081cf</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/f67e6e8a7478d1dae24e869f3d7081cf.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>PG_13</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>931478400000</publishedDate>
+         <title>10 Things I Hate About You</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1389312000000</availableDate>
+         <categories>
+            <element>
+               <description>Biography movies</description>
+               <id>movies-biography</id>
+               <title>Biography</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>History movies</description>
+               <id>movies-history</id>
+               <title>History</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>7200000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_101</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Steve McQueen</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Chiwetel Ejiofor</name>
+               <role>Chiwetel Ejiofor</role>
+            </element>
+            <element>
+               <name>Michael Kenneth Williams</name>
+               <role>Michael Kenneth Williams</role>
+            </element>
+            <element>
+               <name>Michael Fassbender</name>
+               <role>Michael Fassbender</role>
+            </element>
+         </credits>
+         <description>In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.</description>
+         <id>12-years-a-slave</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>0fed2015ee5eed694899959976bd49d3</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/0fed2015ee5eed694899959976bd49d3.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1389312000000</publishedDate>
+         <title>12 Years a Slave</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1376611200000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Comedy movies</description>
+               <id>movies-comedy</id>
+               <title>Comedy</title>
+            </element>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Baltasar Kormákur</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Denzel Washington</name>
+               <role>Denzel Washington</role>
+            </element>
+            <element>
+               <name>Mark Wahlberg</name>
+               <role>Mark Wahlberg</role>
+            </element>
+            <element>
+               <name>Paula Patton</name>
+               <role>Paula Patton</role>
+            </element>
+         </credits>
+         <description>A DEA agent and a naval intelligence officer find themselves on the run after a botched attempt to infiltrate a drug cartel. While fleeing, they learn the secret of their shaky alliance: Neither knew that the other was an undercover agent.</description>
+         <id>2-guns</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>65651bfb058aa122e2a3734ae473484c</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/65651bfb058aa122e2a3734ae473484c.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1376611200000</publishedDate>
+         <title>2 Guns</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>-45273600000</availableDate>
+         <categories>
+            <element>
+               <description>Mystery movies</description>
+               <id>movies-mystery</id>
+               <title>Mystery</title>
+            </element>
+            <element>
+               <description>Sci-fi movies</description>
+               <id>movies-sci-fi</id>
+               <title>Sci-fi</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Stanley Kubrick</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Keir Dullea</name>
+               <role>Keir Dullea</role>
+            </element>
+            <element>
+               <name>Gary Lockwood</name>
+               <role>Gary Lockwood</role>
+            </element>
+            <element>
+               <name>William Sylvester</name>
+               <role>William Sylvester</role>
+            </element>
+         </credits>
+         <description>Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.</description>
+         <id>2001-a-space-odyssey</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>3fcb093562bf2e4b8a428100e825a555</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/3fcb093562bf2e4b8a428100e825a555.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>TV_PG</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>-45273600000</publishedDate>
+         <title>2001: A Space Odyssey</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1331856000000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Comedy movies</description>
+               <id>movies-comedy</id>
+               <title>Comedy</title>
+            </element>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Phil Lord, Christopher Miller</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Jonah Hill</name>
+               <role>Jonah Hill</role>
+            </element>
+            <element>
+               <name>Channing Tatum</name>
+               <role>Channing Tatum</role>
+            </element>
+            <element>
+               <name>Ice Cube</name>
+               <role>Ice Cube</role>
+            </element>
+         </credits>
+         <description>A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.</description>
+         <id>21-jump-street</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>6e7971f65cdda17e07881c92cccfc453</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/6e7971f65cdda17e07881c92cccfc453.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1331856000000</publishedDate>
+         <title>21 Jump Street</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1402012800000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Comedy movies</description>
+               <id>movies-comedy</id>
+               <title>Comedy</title>
+            </element>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Phil Lord, Christopher Miller</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Channing Tatum</name>
+               <role>Channing Tatum</role>
+            </element>
+            <element>
+               <name>Jonah Hill</name>
+               <role>Jonah Hill</role>
+            </element>
+            <element>
+               <name>Ice Cube</name>
+               <role>Ice Cube</role>
+            </element>
+         </credits>
+         <description>After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college.</description>
+         <id>22-jump-street</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>549cdb6bbb45b6eef0f52ff03fd7d545</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/549cdb6bbb45b6eef0f52ff03fd7d545.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1402012800000</publishedDate>
+         <title>22 Jump Street</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1036108800000</availableDate>
+         <categories>
+            <element>
+               <description>Horror movies</description>
+               <id>movies-horror</id>
+               <title>Horror</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Danny Boyle</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Cillian Murphy</name>
+               <role>Cillian Murphy</role>
+            </element>
+            <element>
+               <name>Naomie Harris</name>
+               <role>Naomie Harris</role>
+            </element>
+            <element>
+               <name>Christopher Eccleston</name>
+               <role>Christopher Eccleston</role>
+            </element>
+         </credits>
+         <description>Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.</description>
+         <id>28-days-later</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>1811915c31b528983a2a51fb49e1e624</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/1811915c31b528983a2a51fb49e1e624.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1036108800000</publishedDate>
+         <title>28 Days Later...</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1403222400000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>McG</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Kevin Costner</name>
+               <role>Kevin Costner</role>
+            </element>
+            <element>
+               <name>Hailee Steinfeld</name>
+               <role>Hailee Steinfeld</role>
+            </element>
+            <element>
+               <name>Connie Nielsen</name>
+               <role>Connie Nielsen</role>
+            </element>
+         </credits>
+         <description>A dying CIA agent trying to reconnect with his estranged daughter is offered an experimental drug that could save his life in exchange for one last assignment.</description>
+         <id>3-days-to-kill</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>7ad139a542d955319d4f0a80d83fa158</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/7ad139a542d955319d4f0a80d83fa158.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>PG_13</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1403222400000</publishedDate>
+         <title>3 Days to Kill</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1174608000000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Fantasy movies</description>
+               <id>movies-fantasy</id>
+               <title>Fantasy</title>
+            </element>
+            <element>
+               <description>War movies</description>
+               <id>movies-war</id>
+               <title>War</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Zack Snyder</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Gerard Butler</name>
+               <role>Gerard Butler</role>
+            </element>
+            <element>
+               <name>Lena Headey</name>
+               <role>Lena Headey</role>
+            </element>
+            <element>
+               <name>David Wenham</name>
+               <role>David Wenham</role>
+            </element>
+         </credits>
+         <description>King Leonidas and a force of 300 men fight the Persians at Thermopylae in 480 B.C.</description>
+         <id>300</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>0a1e34de28dd78015749bc7a2e2d6b09</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/0a1e34de28dd78015749bc7a2e2d6b09.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1174608000000</publishedDate>
+         <title>300</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1394150400000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Fantasy movies</description>
+               <id>movies-fantasy</id>
+               <title>Fantasy</title>
+            </element>
+            <element>
+               <description>War movies</description>
+               <id>movies-war</id>
+               <title>War</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Noam Murro</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sullivan Stapleton</name>
+               <role>Sullivan Stapleton</role>
+            </element>
+            <element>
+               <name>Eva Green</name>
+               <role>Eva Green</role>
+            </element>
+            <element>
+               <name>Lena Headey</name>
+               <role>Lena Headey</role>
+            </element>
+         </credits>
+         <description>Greek general Themistokles leads the charge against invading Persian forces led by mortal-turned-god Xerxes and Artemisia, vengeful commander of the Persian navy.</description>
+         <id>300-rise-of-an-empire</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>fbe14add426bbcf07f3673f7d9149030</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/fbe14add426bbcf07f3673f7d9149030.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1394150400000</publishedDate>
+         <title>300: Rise of an Empire</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1388016000000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Adventure movies</description>
+               <id>movies-adventure</id>
+               <title>Adventure</title>
+            </element>
+            <element>
+               <description>Fantasy movies</description>
+               <id>movies-fantasy</id>
+               <title>Fantasy</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Carl Rinsch</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Keanu Reeves</name>
+               <role>Keanu Reeves</role>
+            </element>
+            <element>
+               <name>Hiroyuki Sanada</name>
+               <role>Hiroyuki Sanada</role>
+            </element>
+            <element>
+               <name>Ko Shibasaki</name>
+               <role>Ko Shibasaki</role>
+            </element>
+         </credits>
+         <description>A band of samurai set out to avenge the death and dishonor of their master at the hands of a ruthless shogun.</description>
+         <id>47-ronin</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>c45951f923c7daa2c26bd56a59d24c0e</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/c45951f923c7daa2c26bd56a59d24c0e.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>PG_13</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1388016000000</publishedDate>
+         <title>47 Ronin</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>953251200000</availableDate>
+         <categories>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Sci-fi movies</description>
+               <id>movies-sci-fi</id>
+               <title>Sci-fi</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>7200000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_101</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Stanley Kubrick</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Malcolm McDowell</name>
+               <role>Malcolm McDowell</role>
+            </element>
+            <element>
+               <name>Patrick Magee</name>
+               <role>Patrick Magee</role>
+            </element>
+            <element>
+               <name>Michael Bates</name>
+               <role>Michael Bates</role>
+            </element>
+         </credits>
+         <description>In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.</description>
+         <id>a-clockwork-orange</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>b24e8451d8a6e648cf8a48d6f7a3a8df</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/b24e8451d8a6e648cf8a48d6f7a3a8df.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>953251200000</publishedDate>
+         <title>A Clockwork Orange</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1390089600000</availableDate>
+         <categories>
+            <element>
+               <description>Horror movies</description>
+               <id>movies-horror</id>
+               <title>Horror</title>
+            </element>
+            <element>
+               <description>Romantic movies</description>
+               <id>movies-romance</id>
+               <title>Romance</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Ana Lily Amirpour</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sheila Vand</name>
+               <role>Sheila Vand</role>
+            </element>
+            <element>
+               <name>Arash Marandi</name>
+               <role>Arash Marandi</role>
+            </element>
+            <element>
+               <name>Marshall Manesh</name>
+               <role>Marshall Manesh</role>
+            </element>
+         </credits>
+         <description>In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are...</description>
+         <id>a-girl-walks-home-alone-at-night</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>6c6a06c996cccc5f98b70e519e8ca51e</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/6c6a06c996cccc5f98b70e519e8ca51e.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1390089600000</publishedDate>
+         <title>A Girl Walks Home Alone at Night</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1401408000000</availableDate>
+         <categories>
+            <element>
+               <description>Comedy movies</description>
+               <id>movies-comedy</id>
+               <title>Comedy</title>
+            </element>
+            <element>
+               <description>Western movies</description>
+               <id>movies-western</id>
+               <title>Western</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Seth MacFarlane</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Seth MacFarlane</name>
+               <role>Seth MacFarlane</role>
+            </element>
+            <element>
+               <name>Charlize Theron</name>
+               <role>Charlize Theron</role>
+            </element>
+            <element>
+               <name>Liam Neeson</name>
+               <role>Liam Neeson</role>
+            </element>
+         </credits>
+         <description>As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.</description>
+         <id>a-million-ways-to-die-in-the-west</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>d481a7dbe0847cd29c9da408be7f094a</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/d481a7dbe0847cd29c9da408be7f094a.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1401408000000</publishedDate>
+         <title>A Million Ways to Die in the West</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>500860800000</availableDate>
+         <categories>
+            <element>
+               <description>Horror movies</description>
+               <id>movies-horror</id>
+               <title>Horror</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Wes Craven</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Heather Langenkamp</name>
+               <role>Heather Langenkamp</role>
+            </element>
+            <element>
+               <name>Johnny Depp</name>
+               <role>Johnny Depp</role>
+            </element>
+            <element>
+               <name>Robert Englund</name>
+               <role>Robert Englund</role>
+            </element>
+         </credits>
+         <description>In the dreams of his victims, a spectral child murderer stalks the children of the members of the lynch mob that killed him.</description>
+         <id>a-nightmare-on-elm-street</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>500f4cc48182d7d75660a12fbe3278bd</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/500f4cc48182d7d75660a12fbe3278bd.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>500860800000</publishedDate>
+         <title>A Nightmare on Elm Street</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1273190400000</availableDate>
+         <categories>
+            <element>
+               <description>Horror movies</description>
+               <id>movies-horror</id>
+               <title>Horror</title>
+            </element>
+            <element>
+               <description>Mystery movies</description>
+               <id>movies-mystery</id>
+               <title>Mystery</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Samuel Bayer</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Jackie Earle Haley</name>
+               <role>Jackie Earle Haley</role>
+            </element>
+            <element>
+               <name>Rooney Mara</name>
+               <role>Rooney Mara</role>
+            </element>
+            <element>
+               <name>Kyle Gallner</name>
+               <role>Kyle Gallner</role>
+            </element>
+         </credits>
+         <description>A re-imagining of the horror icon Freddy Krueger, a serial-killer who wields a glove with four blades embedded in the fingers and kills people in their dreams, resulting in their real death in reality.</description>
+         <id>a-nightmare-on-elm-street-2010</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>327ab98fdc563ac25b1804e86b057e25</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/327ab98fdc563ac25b1804e86b057e25.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1273190400000</publishedDate>
+         <title>A Nightmare on Elm Street</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1411084800000</availableDate>
+         <categories>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Mystery movies</description>
+               <id>movies-mystery</id>
+               <title>Mystery</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Scott Frank</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Liam Neeson</name>
+               <role>Liam Neeson</role>
+            </element>
+            <element>
+               <name>Dan Stevens</name>
+               <role>Dan Stevens</role>
+            </element>
+            <element>
+               <name>David Harbour</name>
+               <role>David Harbour</role>
+            </element>
+         </credits>
+         <description>Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped and murdered his wife.</description>
+         <id>a-walk-among-the-tombstones</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>f3d2b20a23f8731eb4af72550bcdc8f9</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/f3d2b20a23f8731eb4af72550bcdc8f9.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1411084800000</publishedDate>
+         <title>A Walk Among the Tombstones</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1378252800000</availableDate>
+         <categories>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Fantasy movies</description>
+               <id>movies-fantasy</id>
+               <title>Fantasy</title>
+            </element>
+            <element>
+               <description>Romantic movies</description>
+               <id>movies-romance</id>
+               <title>Romance</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>7200000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_101</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Richard Curtis</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Domhnall Gleeson</name>
+               <role>Domhnall Gleeson</role>
+            </element>
+            <element>
+               <name>Rachel McAdams</name>
+               <role>Rachel McAdams</role>
+            </element>
+            <element>
+               <name>Bill Nighy</name>
+               <role>Bill Nighy</role>
+            </element>
+         </credits>
+         <description>At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.</description>
+         <id>about-time</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>294bdc4248374324117835b01bc36180</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/294bdc4248374324117835b01bc36180.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1378252800000</publishedDate>
+         <title>About Time</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1340150400000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Fantasy movies</description>
+               <id>movies-fantasy</id>
+               <title>Fantasy</title>
+            </element>
+            <element>
+               <description>Horror movies</description>
+               <id>movies-horror</id>
+               <title>Horror</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>7200000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_101</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Timur Bekmambetov</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Benjamin Walker</name>
+               <role>Benjamin Walker</role>
+            </element>
+            <element>
+               <name>Rufus Sewell</name>
+               <role>Rufus Sewell</role>
+            </element>
+            <element>
+               <name>Dominic Cooper</name>
+               <role>Dominic Cooper</role>
+            </element>
+         </credits>
+         <description>Abraham Lincoln, the 16th President of the United States, discovers vampires are planning to take over the United States. He makes it his mission to eliminate them.</description>
+         <id>abraham-lincoln-vampire-hunter</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>7ac56e9f03f05d3a8f37d9fdf58f7a0f</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/7ac56e9f03f05d3a8f37d9fdf58f7a0f.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1340150400000</publishedDate>
+         <title>Abraham Lincoln: Vampire Hunter</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1412899200000</availableDate>
+         <categories>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Bille Woodruff</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sharon Leal</name>
+               <role>Sharon Leal</role>
+            </element>
+            <element>
+               <name>Boris Kodjoe</name>
+               <role>Boris Kodjoe</role>
+            </element>
+            <element>
+               <name>John Newberg</name>
+               <role>John Newberg</role>
+            </element>
+         </credits>
+         <description>A gallerist risks her family and flourishing career when she enters into an affair with a talented painter and slowly loses control of her life.</description>
+         <id>addicted</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>61c54b37ac44ca04d54cca71fbd47efb</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/61c54b37ac44ca04d54cca71fbd47efb.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1412899200000</publishedDate>
+         <title>Addicted</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1105056000000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Adventure movies</description>
+               <id>movies-adventure</id>
+               <title>Adventure</title>
+            </element>
+            <element>
+               <description>Biography movies</description>
+               <id>movies-biography</id>
+               <title>Biography</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>History movies</description>
+               <id>movies-history</id>
+               <title>History</title>
+            </element>
+            <element>
+               <description>Romantic movies</description>
+               <id>movies-romance</id>
+               <title>Romance</title>
+            </element>
+            <element>
+               <description>War movies</description>
+               <id>movies-war</id>
+               <title>War</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Oliver Stone</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Colin Farrell</name>
+               <role>Colin Farrell</role>
+            </element>
+            <element>
+               <name>Anthony Hopkins</name>
+               <role>Anthony Hopkins</role>
+            </element>
+            <element>
+               <name>Rosario Dawson</name>
+               <role>Rosario Dawson</role>
+            </element>
+         </credits>
+         <description>Alexander, the King of Macedonia and one of the greatest military leaders in the history of warfare, conquers much of the known world.</description>
+         <id>alexander</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>ea77f447a3b67c2a4445bb25e7240af9</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/ea77f447a3b67c2a4445bb25e7240af9.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>UNRATED</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1105056000000</publishedDate>
+         <title>Alexander</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1414108800000</availableDate>
+         <categories>
+            <element>
+               <description>Comedy movies</description>
+               <id>movies-comedy</id>
+               <title>Comedy</title>
+            </element>
+            <element>
+               <description>Family movies</description>
+               <id>movies-family</id>
+               <title>Family</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Miguel Arteta</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Steve Carell</name>
+               <role>Steve Carell</role>
+            </element>
+            <element>
+               <name>Jennifer Garner</name>
+               <role>Jennifer Garner</role>
+            </element>
+            <element>
+               <name>Ed Oxenbould</name>
+               <role>Ed Oxenbould</role>
+            </element>
+         </credits>
+         <description>Alexander's day begins with gum stuck in his hair, followed by more calamities. Though he finds little sympathy from his family and begins to wonder if bad things only happen to him, his mom, dad, brother, and sister all find themselves living through their own terrible, horrible, no good, very bad day.</description>
+         <id>alexander-and-the-terrible-horrible-no-good-very-bad-day</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>f83f884f1175ee7f112cc1a7590b1d63</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/f83f884f1175ee7f112cc1a7590b1d63.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>PG</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1414108800000</publishedDate>
+         <title>Alexander and the Terrible, Horrible, No Good, Very Bad Day</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>306115200000</availableDate>
+         <categories>
+            <element>
+               <description>Horror movies</description>
+               <id>movies-horror</id>
+               <title>Horror</title>
+            </element>
+            <element>
+               <description>Sci-fi movies</description>
+               <id>movies-sci-fi</id>
+               <title>Sci-fi</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Ridley Scott</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sigourney Weaver</name>
+               <role>Sigourney Weaver</role>
+            </element>
+            <element>
+               <name>Tom Skerritt</name>
+               <role>Tom Skerritt</role>
+            </element>
+            <element>
+               <name>John Hurt</name>
+               <role>John Hurt</role>
+            </element>
+         </credits>
+         <description>The commercial vessel Nostromo receives a distress call from an unexplored planet. After searching for survivors, the crew heads home only to realize that a deadly bioform has joined them.</description>
+         <id>alien</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>7775fab68c7e78fb31308d9098989eb4</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/7775fab68c7e78fb31308d9098989eb4.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>TV_14</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>306115200000</publishedDate>
+         <title>Alien</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>714355200000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Sci-fi movies</description>
+               <id>movies-sci-fi</id>
+               <title>Sci-fi</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>David Fincher</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sigourney Weaver</name>
+               <role>Sigourney Weaver</role>
+            </element>
+            <element>
+               <name>Charles S. Dutton</name>
+               <role>Charles S. Dutton</role>
+            </element>
+            <element>
+               <name>Charles Dance</name>
+               <role>Charles Dance</role>
+            </element>
+         </credits>
+         <description>Ripley continues to be stalked by a savage alien, after her escape pod crashes on a prison planet.</description>
+         <id>alien-3</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>12caac3c2f37d701a6198abfc221ceed</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/12caac3c2f37d701a6198abfc221ceed.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>TV_14</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>714355200000</publishedDate>
+         <title>Alien 3</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>880675200000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Sci-fi movies</description>
+               <id>movies-sci-fi</id>
+               <title>Sci-fi</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Jean-Pierre Jeunet</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sigourney Weaver</name>
+               <role>Sigourney Weaver</role>
+            </element>
+            <element>
+               <name>Winona Ryder</name>
+               <role>Winona Ryder</role>
+            </element>
+            <element>
+               <name>Dominique Pinon</name>
+               <role>Dominique Pinon</role>
+            </element>
+         </credits>
+         <description>200 years after her death, Ellen Ripley is revived as a powerful human/Alien hybrid clone who must continue her war against the Aliens.</description>
+         <id>alien-resurrection</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>488cce8738773adf4ddf73a756766ae3</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/488cce8738773adf4ddf73a756766ae3.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>880675200000</publishedDate>
+         <title>Alien: Resurrection</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>527472000000</availableDate>
+         <categories>
+            <element>
+               <description>Action movies</description>
+               <id>movies-action</id>
+               <title>Action</title>
+            </element>
+            <element>
+               <description>Adventure movies</description>
+               <id>movies-adventure</id>
+               <title>Adventure</title>
+            </element>
+            <element>
+               <description>Sci-fi movies</description>
+               <id>movies-sci-fi</id>
+               <title>Sci-fi</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>James Cameron</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Sigourney Weaver</name>
+               <role>Sigourney Weaver</role>
+            </element>
+            <element>
+               <name>Michael Biehn</name>
+               <role>Michael Biehn</role>
+            </element>
+            <element>
+               <name>Carrie Henn</name>
+               <role>Carrie Henn</role>
+            </element>
+         </credits>
+         <description>The planet from Alien has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?</description>
+         <id>aliens</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>97c5cd9230b435a00c60932f2ff3add8</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/97c5cd9230b435a00c60932f2ff3add8.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>527472000000</publishedDate>
+         <title>Aliens</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>197856000000</availableDate>
+         <categories>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+            <element>
+               <description>History movies</description>
+               <id>movies-history</id>
+               <title>History</title>
+            </element>
+            <element>
+               <description>Mystery movies</description>
+               <id>movies-mystery</id>
+               <title>Mystery</title>
+            </element>
+            <element>
+               <description>Thriller movies</description>
+               <id>movies-thriller</id>
+               <title>Thriller</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>0</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>665</height>
+               <id>vid_104</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>1182</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Alan J. Pakula</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Dustin Hoffman</name>
+               <role>Dustin Hoffman</role>
+            </element>
+            <element>
+               <name>Robert Redford</name>
+               <role>Robert Redford</role>
+            </element>
+            <element>
+               <name>Jack Warden</name>
+               <role>Jack Warden</role>
+            </element>
+         </credits>
+         <description>Reporters Woodward and Bernstein uncover the details of the Watergate scandal that leads to President Nixon's resignation.</description>
+         <id>all-the-president-s-men</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>6753893d856068292e1b3d0c77f4786d</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/6753893d856068292e1b3d0c77f4786d.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>197856000000</publishedDate>
+         <title>All the President's Men</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>949622400000</availableDate>
+         <categories>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Sam Mendes</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Kevin Spacey</name>
+               <role>Kevin Spacey</role>
+            </element>
+            <element>
+               <name>Annette Bening</name>
+               <role>Annette Bening</role>
+            </element>
+            <element>
+               <name>Thora Birch</name>
+               <role>Thora Birch</role>
+            </element>
+         </credits>
+         <description>A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.</description>
+         <id>american-beauty</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>f2f9debf358931ca56d4715c0b979a62</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/f2f9debf358931ca56d4715c0b979a62.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>949622400000</publishedDate>
+         <title>American Beauty</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>922406400000</availableDate>
+         <categories>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>9000000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_102</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>Tony Kaye</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Edward Norton</name>
+               <role>Edward Norton</role>
+            </element>
+            <element>
+               <name>Edward Furlong</name>
+               <role>Edward Furlong</role>
+            </element>
+            <element>
+               <name>Beverly D'Angelo</name>
+               <role>Beverly D'Angelo</role>
+            </element>
+         </credits>
+         <description>A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.</description>
+         <id>american-history-x</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>a8d4dc8138fa89acbe41a67dcaeb78d6</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/a8d4dc8138fa89acbe41a67dcaeb78d6.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>922406400000</publishedDate>
+         <title>American History X</title>
+         <type>movie</type>
+      </element>
+      <element>
+         <availableDate>1388534400000</availableDate>
+         <categories>
+            <element>
+               <description>Crime movies</description>
+               <id>movies-crime</id>
+               <title>Crime</title>
+            </element>
+            <element>
+               <description>Drama movies</description>
+               <id>movies-drama</id>
+               <title>Drama</title>
+            </element>
+         </categories>
+         <contents>
+            <element>
+               <duration>3600000</duration>
+               <format>mp4</format>
+               <geoLock>false</geoLock>
+               <height>360</height>
+               <id>vid_103</id>
+               <language>en</language>
+               <url>http://d2bqeap5aduv6p.cloudfront.net/project_coderush_640x360_521kbs_56min.mp4</url>
+               <width>640</width>
+            </element>
+         </contents>
+         <credits>
+            <element>
+               <name>David O. Russell</name>
+               <role>Director</role>
+            </element>
+            <element>
+               <name>Christian Bale</name>
+               <role>Christian Bale</role>
+            </element>
+            <element>
+               <name>Amy Adams</name>
+               <role>Amy Adams</role>
+            </element>
+            <element>
+               <name>Bradley Cooper</name>
+               <role>Bradley Cooper</role>
+            </element>
+         </credits>
+         <description>A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and mafia.</description>
+         <id>american-hustle</id>
+         <images>
+            <element>
+               <height>317</height>
+               <id>e57bec4583bfe77b8fdcc9b54223df80</id>
+               <type>cover</type>
+               <url>http://ovp-emp.appglobe.accedo.tv/images/dvd_cover/e57bec4583bfe77b8fdcc9b54223df80.jpg</url>
+               <width>214</width>
+            </element>
+         </images>
+         <metadata>
+            <element>
+               <name>language</name>
+               <value>en</value>
+            </element>
+         </metadata>
+         <parentalRatings>
+            <element>
+               <rating>R</rating>
+               <scheme>MPAA</scheme>
+            </element>
+         </parentalRatings>
+         <publishedDate>1388534400000</publishedDate>
+         <title>American Hustle</title>
+         <type>movie</type>
+      </element>
+   </entries>
+   <totalCount>30</totalCount>
+</root>
